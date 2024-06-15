@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "guan-az",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
